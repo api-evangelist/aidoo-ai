@@ -1,4 +1,4 @@
-# aidoo-ai
+# Aidoo
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-aidoo-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://aidoo.ai/
+Aidoo is a French AI agency that integrates artificial intelligence into Odoo ERP systems. Founded in 2021, it offers conversational agents, autonomous workflows, and AI‑enhanced modules for Odoo versions 17‑20. The platform connects Claude and ChatGPT to Odoo, enabling natural‑language queries, automated task execution, and custom module generation without coding. Aidoo provides a 14‑day free trial, transparent pricing, and tools for data reading, writing, reporting, and OCR, targeting SMEs and TPEs in France.
+
+**Areas:** AI · ERP · Odoo · Automation · French
+
+## Aidoo on APIs.io
+
+Everything profiled for Aidoo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aidoo-ai/](https://apis.io/providers/aidoo-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Aidoo API](https://apis.io/apis/aidoo-ai/aidoo-ai-api/) — Aidoo API as documented publicly: 21 operations. Contract generated from the documentation by API Evangelist (2026-11-01); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [PostJson2AccountMoveLineSearchReadRequest](https://apis.io/schemas/aidoo-ai/aidoo-ai-post-json2-account-move-line-search-read-request/)
+- [PostJson2AccountMoveSearchReadRequest](https://apis.io/schemas/aidoo-ai/aidoo-ai-post-json2-account-move-search-read-request/)
+- [PostJson2AccountPaymentSearchReadRequest](https://apis.io/schemas/aidoo-ai/aidoo-ai-post-json2-account-payment-search-read-request/)
+- [PostJson2CrmLeadSearchReadRequest](https://apis.io/schemas/aidoo-ai/aidoo-ai-post-json2-crm-lead-search-read-request/)
+- [PostJson2HrEmployeeSearchReadRequest](https://apis.io/schemas/aidoo-ai/aidoo-ai-post-json2-hr-employee-search-read-request/)
+- [PostJson2ResPartnerFieldsGetResponse](https://apis.io/schemas/aidoo-ai/aidoo-ai-post-json2-res-partner-fields-get-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Aidoo Ai Context](https://apis.io/jsonld/aidoo-ai/aidoo-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Aidoo API Rules](https://apis.io/rules/aidoo-ai/aidoo-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aidoo Ai Authentication](https://apis.io/security/aidoo-ai/aidoo-ai-authentication/)
+- [Aidoo Ai Domain Security](https://apis.io/security/aidoo-ai/aidoo-ai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Aidoo Ai Plans Pricing](https://apis.io/plans/aidoo-ai/aidoo-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aidoo.ai/)
+- [Documentation](https://aidoo.ai/fr/docs)
+- [Pricing](https://aidoo.ai/fr/tarifs)
+- [Support](https://aidoo.ai/fr/contact)
+- [Blog](https://aidoo.ai/fr/blog)
+- [Privacy policy](https://aidoo.ai/fr/outils/explorateur-modeles-odoo/privacy-log)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/aidoo-ai/](https://apis.io/providers/aidoo-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Aidoo: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aidoo-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
